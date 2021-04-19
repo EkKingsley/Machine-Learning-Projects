@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Machine Learning Projects for practicing and exploration of knowledge in Machine Learnig 
+Machine Learning Projects with python for practicing and exploration of knowledge in Machine Learnig 
