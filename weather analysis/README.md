@@ -1,3 +1,3 @@
 # Data : weather.csv
 
-Practice of data cleaning, munging, selction and aggregation
+Practice of data cleaning, munging, selection and aggregation.
