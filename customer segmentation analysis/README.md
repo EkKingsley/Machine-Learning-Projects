@@ -8,4 +8,6 @@ namely Bronze, Silver, Gold and Platinum, in order to give labels to the values 
 - An Unsupervised Machine Learning model, KMeans is then built on the scoring metrics Recency, Frequency, Moneytary and Length of Relationship and hence based on the 
 metrics, the customers are grouped into 3 clusters according to similar they are as specified in the model.
 
+#### The data for the project has been compressed into the zip file.
+
 See beginning of file for more information.
